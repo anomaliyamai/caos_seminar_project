@@ -13,5 +13,5 @@
 
 **Стек технологий**
 1) C++.
-2) Simple and Fast Multimedia Library C++ Edition.
+2) [Simple and Fast Multimedia Library C++ Edition.](https://www.sfml-dev.org/)
 3) Возможно другие!!!!!!!
